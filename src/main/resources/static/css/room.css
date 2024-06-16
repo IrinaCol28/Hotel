@@ -1,0 +1,23 @@
+.room-info {
+    margin-bottom: 20px;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.room-info b {
+    color: #333333;
+}
+
+.room-actions {
+    margin-top: 10px;
+}
+
+.room-actions a {
+    margin-right: 10px;
+}
+
+.no-rooms {
+    color: #666666;
+    text-align: center;
+}

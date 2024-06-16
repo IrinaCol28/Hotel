@@ -1,0 +1,13 @@
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+
+.navbar-default {
+    background-color:whitesmoke;
+    max-height: 50px;
+}

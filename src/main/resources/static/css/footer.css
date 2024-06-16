@@ -1,0 +1,25 @@
+.footer {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 20px 20px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.footer p {
+    margin: 0;
+}
+.footer .social-links {
+    margin-top: 10px;
+}
+
+.footer .social-links a {
+    display: inline-block;
+    color: #ffffff;
+    margin: 0 5px;
+    text-decoration: none;
+}
+.footer .social-links a i {
+    color: #ffffff; /* Изменение цвета иконки на белый */
+}
